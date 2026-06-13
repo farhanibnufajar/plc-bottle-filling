@@ -101,11 +101,9 @@ automatic-bottle-filling/
 
 ## 📸 Documentation
 
-> Add system photos to `/docs/images/` and update links below.
-
 | System Overview | Filling Station | Capping Station | Schematic | Video |
 |---|---|---|---|---|
-| ![Overview](docs/images/Automatic_Bottle_Filling.jpg) | ![Filling station](docs/images/Filling_Station.jpg) | ![Capping Station](docs/images/Capping_station.jpg) | ![schematic](schematic/schematic_bottle_filling.png) | https://vt.tiktok.com/ZSQ9YRY2k/ |
+| ![Overview](docs/images/Automatic_Bottle_Filling.jpg) | ![Filling station](docs/images/Filling_Station.jpg) | ![Capping Station](docs/images/Capping_station.jpg) | ![schematic](schematic/schematic_bottle_filling.png) | https://youtu.be/gutRfrW8Jng |
 
 ---
 
