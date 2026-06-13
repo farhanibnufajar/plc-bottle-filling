@@ -130,7 +130,8 @@ automatic-bottle-filling/
 
 **Farhan Ibnufajar**
 Electrical Engineering — Universitas Jenderal Soedirman (Unsoed)
-Project Based Learning - Electronic Industry Engineering State Vocational School 2 Bekasi
+
+Project Based Learning - Electronics Industry Engineering State Vocational School 2 Bekasi
 
 [![GitHub](https://img.shields.io/badge/GitHub-farhanibnufajar-181717?style=flat&logo=github)](https://github.com/farhanibnufajar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-farhanibnufajar.github.io-00C6FF?style=flat&logo=github-pages)](https://farhanibnufajar.github.io)
