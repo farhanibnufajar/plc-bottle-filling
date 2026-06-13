@@ -103,9 +103,9 @@ automatic-bottle-filling/
 
 > Add system photos to `/docs/images/` and update links below.
 
-| System Overview | Filling Station | Capping Station |
-|---|---|---|
-| *(photo here)* | *(photo here)* | *(photo here)* |
+| System Overview | Filling Station | Capping Station | Schematic |
+|---|---|---|---|
+| *(photo here)* | *(photo here)* | *(photo here)* | f |
 
 ---
 
