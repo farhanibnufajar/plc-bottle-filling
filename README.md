@@ -105,7 +105,7 @@ automatic-bottle-filling/
 
 | System Overview | Filling Station | Capping Station | Schematic |
 |---|---|---|---|
-| *(photo here)* | *(photo here)* | *(photo here)* | f |
+|  | *(photo here)* | *(photo here)* | ![schematic](docs/images/schematic_bottle_filling.png) |
 
 ---
 
